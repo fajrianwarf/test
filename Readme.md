@@ -9,7 +9,7 @@ npm i
 npm run start
 
 terminal 2:
-cd frontend
+cd front
 npm i
 npm start
 ```
